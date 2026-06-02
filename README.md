@@ -27,15 +27,6 @@ My passion lies in combining **Python, Microsoft Power Platform, SQL Server, and
   <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="42" height="42"/>
 </p>
 
-### Platforms & Tools
-- **Microsoft Power Apps**
-- **Microsoft Power Automate**
-- **Microsoft Dataverse**
-- **Amazon S3**
-- **Amazon Athena**
-- **Amazon QuickSight**
-- **REST APIs**
-
 ---
 
 ## 🎯 Current Focus
