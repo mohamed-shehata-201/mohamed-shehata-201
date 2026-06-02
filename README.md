@@ -22,10 +22,6 @@ My passion lies in combining **Python, Microsoft Power Platform, SQL Server, and
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,github,postgres,aws" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="42" height="42"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="42" height="42"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="42" height="42"/>
-</p>
 
 ---
 
