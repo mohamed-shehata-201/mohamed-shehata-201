@@ -21,7 +21,7 @@ My passion lies in combining **Python, Microsoft Power Platform, SQL Server, and
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,postgres,aws,git,github" />
 </p>
 
 <p align="left">
