@@ -50,7 +50,7 @@ I love combining:
 - 🏥 **Healthcare Technology**
 - 🤖 **AI & Intelligent Systems**
 
-…to create **efficient, scalable, and maintainable solutions**.
+…to create **efficient maintainable solutions**.
 
 ---
 
