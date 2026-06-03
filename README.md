@@ -21,7 +21,15 @@ My passion lies in combining **Python, Microsoft Power Platform, SQL Server, and
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,postgres,aws" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataverse-00B050?style=for-the-badge&logo=microsoftdataverse&logoColor=white" />
+</p>
 
 ---
 
