@@ -10,11 +10,11 @@ My passion lies in combining **Python, Microsoft Power Platform, SQL Server, and
 
 ## 🚀 What I Build
 
-- ⚡ **Process Automation** – Streamlining complex business workflows
-- 🔄 **Data Integration Pipelines** – Connecting systems and unifying data sources
-- 📱 **Power Platform Solutions** – Power Apps and Power Automate for productivity
-- 📊 **Analytics & Dashboards** – Turning raw data into actionable insights
-- 🤖 **AI-Powered Automation** – Intelligent solutions that learn and adapt
+- ⚡ **Process Automation** - Streamlining complex business workflows
+- 🔄 **Data Integration Pipelines** - Connecting systems and unifying data sources
+- 📱 **Power Platform Solutions** - Power Apps and Power Automate for productivity
+- 📊 **Analytics & Dashboards** -Turning raw data into actionable insights
+- 🤖 **AI-Powered Automation** - Intelligent solutions that learn and adapt
 
 ---
 
