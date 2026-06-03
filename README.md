@@ -2,7 +2,7 @@
 
 ### Python Developer | Automation Engineer | Healthcare Technology Enthusiast
 
-I build **automation solutions, data-driven applications, and intelligent workflows** that transform healthcare back-office inefficiencies into scalable, maintainable systems.
+I build **automation solutions, data-driven applications, and intelligent workflows** that transform healthcare back-office inefficiencies into simple solutions.
 
 My passion lies in combining **Python, Microsoft Power Platform, SQL Server, and Cloud technologies** to eliminate manual work, improve decision-making, and deliver real business impact.
 
