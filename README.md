@@ -1,29 +1,23 @@
-# Salamalekum, I'm Mohamed Shehata 👋
-
+# Hi, I'm Mohamed Shehata 👋
 ### Python Developer | Automation Engineer | Healthcare Technology Enthusiast
-
 I build **automation solutions, data-driven applications, and intelligent workflows** that transform healthcare back-office inefficiencies into simple solutions.
-
 My passion lies in combining **Python, Microsoft Power Platform, SQL Server, and Cloud technologies** to eliminate manual work, improve decision-making, and deliver real business impact.
 
 ---
 
 ## 🚀 What I Build
-
 - ⚡ **Process Automation** - Streamlining complex business workflows
 - 🔄 **Data Integration Pipelines** - Connecting systems and unifying data sources
 - 📱 **Power Platform Solutions** - Power Apps and Power Automate for productivity
-- 📊 **Analytics & Dashboards** -Turning raw data into actionable insights
+- 📊 **Analytics & Dashboards** - Turning raw data into actionable insights
 - 🤖 **AI-Powered Automation** - Intelligent solutions that learn and adapt
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,postgres,aws,git,github" />
 </p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
@@ -34,7 +28,6 @@ My passion lies in combining **Python, Microsoft Power Platform, SQL Server, and
 ---
 
 ## 🎯 Current Focus
-
 - Python for Business Process Automation
 - Data Engineering & System Integration
 - Workflow Optimization & Governance
@@ -43,22 +36,8 @@ My passion lies in combining **Python, Microsoft Power Platform, SQL Server, and
 ---
 
 ## 🌱 Currently Learning
-
 - **Deep Learning** (Neural Networks, Computer Vision, and Sequence Models)
 - **Generative AI** (LLMs, Prompt Engineering, RAG, and AI Agents)
-
----
-
-## 💡 Interests
-
-I love combining:
-- 🐍 **Python**
-- ⚡ **Automation**
-- 📊 **Data Analytics**
-- 🏥 **Healthcare Technology**
-- 🤖 **AI & Intelligent Systems**
-
-…to create **efficient maintainable solutions**.
 
 ---
 
@@ -101,10 +80,8 @@ Developed an automated pipeline that extracts customer data from SQL Server, enr
 ---
 
 ## 📫 Connect With Me
-
 <p>
   <a href="https://www.linkedin.com/in/mohamed-shehata-8328591b3">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Shehata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
